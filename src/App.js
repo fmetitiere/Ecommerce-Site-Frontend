@@ -5,7 +5,6 @@ import { Provider } from "react-redux";
 import thunk from "redux-thunk";
 import { composeWithDevTools } from "redux-devtools-extension";
 import styled from "styled-components";
-import { isMobile } from "react-device-detect";
 
 import { ThemeButtons, ThemeLight, Themes } from "./_layout/Themes";
 import Routes from "./_components/Routes";
