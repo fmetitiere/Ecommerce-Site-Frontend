@@ -1,0 +1,11 @@
+<svg id="money" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.686" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffcf00"/>
+      <stop offset="1" stop-color="#f7ae15"/>
+    </radialGradient>
+  </defs>
+  <circle id="Oval_Copy_3" data-name="Oval Copy 3" cx="12" cy="12" r="12" fill="url(#radial-gradient)"/>
+  <path id="Shape" d="M0,9.143a9.143,9.143,0,1,1,9.143,9.142A9.162,9.162,0,0,1,0,9.143Z" transform="translate(2.857 2.857)" fill="#f8b013"/>
+  <path id="Shape-2" data-name="Shape" d="M0,7.111a7.111,7.111,0,1,1,7.111,7.111A7.139,7.139,0,0,1,0,7.111Z" transform="translate(4.889 4.889)" fill="#f8b013"/>
+</svg>
